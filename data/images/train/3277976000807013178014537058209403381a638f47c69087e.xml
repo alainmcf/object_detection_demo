@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carros_frontal-400px</folder>
+	<filename>3277976000807013178014537058209403381a638f47c69087e.jpeg</filename>
+	<path>E:\Projects\ML\pis\tensorflow\object_detection_demo-master\data\carros_frontal-400px\3277976000807013178014537058209403381a638f47c69087e.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>321</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Frontal Caminhao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>16</ymin>
+			<xmax>267</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>
